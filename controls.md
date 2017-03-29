@@ -14,4 +14,7 @@
 * rt = run
 * lt == acceleration 
 
+### start & pause
 
+* start = start the game
+* pause = pauses the game
