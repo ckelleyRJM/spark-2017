@@ -12,5 +12,6 @@
 * rb = block
 * lb & rb = special move
 * rt = run
-* lt == different moves
+* lt == acceleration 
+
 
