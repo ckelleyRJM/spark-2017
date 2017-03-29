@@ -2,7 +2,7 @@
 
 * left = walk left
 * right = walk right
-
+* down = fall down faster
 ### other buttons
 
 * a = jump
