@@ -1,3 +1,5 @@
+## GAME CONTROLLER
+
 ### analogstick
 
 * left = walk left
@@ -11,10 +13,24 @@
 * x = pass
 * rb = block
 * lb & rb = special move
-* rt = run
+* rt = slown down
 * lt == acceleration 
 
 ### start & pause
 
 * start = start the game
 * pause = pauses the game
+ 
+## KEY BORAD CPNTROLL'S
+
+* left = walk left
+* right = walk right = 
+* down = fall down faster
+* up = jump
+* z = hit
+* x = pass
+* a = block
+*  s = accelration
+* a & s = specail move
+* d = slow down
+* spacebar = shoot
