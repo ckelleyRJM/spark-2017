@@ -5,10 +5,10 @@
 * left = walk left
 * right = walk right
 * down = fall down faster
+* up = jump
 
 ### [ ACTIONS ]
 
-* a = jump
 * b=hit
 * y =shoot
 * x = pass
