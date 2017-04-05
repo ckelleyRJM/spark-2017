@@ -1,11 +1,12 @@
 ## GAME CONTROLLER
 
-### analogstick
+### [ PLAYER MOVEMENT ]
 
 * left = walk left
 * right = walk right
 * down = fall down faster
-### other buttons
+
+### [ ACTIONS ]
 
 * a = jump
 * b=hit
@@ -19,7 +20,7 @@
 ### start & pause
 
 * start = start the game
-* pause = pauses the game
+* start = pauses the game
  
 ## KEY BORAD CPNTROLL'S
 
@@ -34,3 +35,5 @@
 * a & s = specail move
 * d = slow down
 * spacebar = shoot
+* START = p 
+* PAUSE =p
